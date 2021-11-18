@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+head {
+    display: none;
+}
+
+body {
+    background: rgba(132, 213, 245, 0.986);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+h1 {
+    display:block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 00.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:  bold;
+}
+
+
