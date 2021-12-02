@@ -23,7 +23,7 @@ h1 {
     margin-inline-end: 0px;
     font-weight:  bold;
 }
-.div_container {
+.container {
     display: flex;
     padding: 20px;
     margin: 0 auto;
